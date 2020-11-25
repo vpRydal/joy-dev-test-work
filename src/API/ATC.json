@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Железная",
+    "items": [
+      "Avaya IP Office",
+      "Cisco UCM",
+      "LG iPecs",
+      "Panasonic KX-TDA/TDE, КX-NS",
+      "Samsung OfficeServ"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Программная",
+    "items": [
+      "Ascozia",
+      "Asteriks выше версии 1.6",
+      "Elastix",
+      "FreePBX",
+      "Oktell",
+      "VoxLink",
+      "Yeastar"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Облачная АТС",
+    "items": [
+      "BeeLine",
+      "Mango",
+      "MTS",
+      "Rostelecom",
+      "Telfin",
+      "UIS",
+      "Yandex",
+      "Zadarma"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "iToolabs (Облачная АТС)",
+    "items": [
+      "Altegro",
+      "Comiten",
+      "DreamNet",
+      "Easytel",
+      "EVO",
+      "Finenumbers",
+      "OpenSpeak",
+      "Power Telecom",
+      "RiNet",
+      "SipVip",
+      "Spacetel"
+    ]
+  }
+]
